@@ -1,0 +1,4 @@
+240b:11:cc01:7100:4f41:b583:dc6e:5f9f {
+	root * docs
+	file_server
+}
